@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "Thinking Bout You",
+  "base_artist": "rei brown",
+  "createdAt": "2026-01-14T02:58:06.632173Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Thinking 'Bout You (feat. MacKenzie Porter)",
+      "artist": "Dustin Lynch",
+      "has_synced": true,
+      "path": "select/01_Thinking_'Bout_You_(feat._MacKenzie_Porter)_Dustin_Lynch.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Thinking 'Bout You (feat. Lauren Alaina)",
+      "artist": "Dustin Lynch feat. Lauren Alaina",
+      "has_synced": true,
+      "path": "select/02_Thinking_'Bout_You_(feat._Lauren_Alaina)_Dustin_Lynch_feat._Lauren_Alaina.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Thinking 'Bout You (feat. Lauren Alaina)",
+      "artist": "Dustin Lynch",
+      "has_synced": true,
+      "path": "select/03_Thinking_'Bout_You_(feat._Lauren_Alaina)_Dustin_Lynch.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Thinking Bout You",
+      "artist": "Ariana Grande",
+      "has_synced": true,
+      "path": "select/04_Thinking_Bout_You_Ariana_Grande.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Thinking 'Bout You",
+      "artist": "Dua Lipa",
+      "has_synced": true,
+      "path": "select/05_Thinking_'Bout_You_Dua_Lipa.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Thinking ’Bout You",
+      "artist": "Dua Lipa",
+      "has_synced": true,
+      "path": "select/06_Thinking_’Bout_You_Dua_Lipa.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Thinking 'Bout You (Decco Remix)",
+      "artist": "Dua Lipa",
+      "has_synced": true,
+      "path": "select/07_Thinking_'Bout_You_(Decco_Remix)_Dua_Lipa.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Thinking ’Bout You (DECCO remix)",
+      "artist": "Dua Lipa",
+      "has_synced": false,
+      "path": "select/08_Thinking_’Bout_You_(DECCO_remix)_Dua_Lipa.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Thinking 'Bout You - Live From Spotify London",
+      "artist": "Dua Lipa",
+      "has_synced": false,
+      "path": "select/09_Thinking_'Bout_You_-_Live_From_Spotify_London_Dua_Lipa.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Thinking Bout You",
+      "artist": "Ariana Grande",
+      "has_synced": true,
+      "path": "select/10_Thinking_Bout_You_Ariana_Grande.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Thinking 'Bout You",
+      "artist": "Jamelia",
+      "has_synced": false,
+      "path": "select/11_Thinking_'Bout_You_Jamelia.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Thinking ’Bout You",
+      "artist": "Dua Lipa",
+      "has_synced": true,
+      "path": "select/12_Thinking_’Bout_You_Dua_Lipa.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Thinking 'Bout You",
+      "artist": "Dua Lipa",
+      "has_synced": true,
+      "path": "select/13_Thinking_'Bout_You_Dua_Lipa.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Thinking 'Bout You  (DECCO Remix)",
+      "artist": "Dua Lipa",
+      "has_synced": false,
+      "path": "select/14_Thinking_'Bout_You_(DECCO_Remix)_Dua_Lipa.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Thinking 'Bout You (360 Reality Audio)",
+      "artist": "Dua Lipa",
+      "has_synced": true,
+      "path": "select/15_Thinking_'Bout_You_(360_Reality_Audio)_Dua_Lipa.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Thinking 'Bout You (Deezer Sessions)",
+      "artist": "Dua Lipa",
+      "has_synced": true,
+      "path": "select/16_Thinking_'Bout_You_(Deezer_Sessions)_Dua_Lipa.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Thinking 'Bout You",
+      "artist": "Cat Stevens",
+      "has_synced": true,
+      "path": "select/17_Thinking_'Bout_You_Cat_Stevens.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Thinking Bout You",
+      "artist": "rei brown, Joji",
+      "has_synced": false,
+      "path": "select/pl_01_Thinking_Bout_You_rei_brown,_Joji.txt"
+    }
+  ]
+}
